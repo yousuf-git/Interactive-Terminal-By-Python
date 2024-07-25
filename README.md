@@ -5,4 +5,3 @@ In this repository I've shown the use of rich library in python in order to buil
 ```bash
 pip install rich
 ```
-
